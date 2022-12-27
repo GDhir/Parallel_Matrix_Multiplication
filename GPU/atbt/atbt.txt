@@ -1,0 +1,5 @@
+Specify Matrix dimension Ni, Nj, Nk: 1025 1027 789<Ni=1025,Nj=1027,Nk=789>: Trial 0: GFLOPS: 1373.06
+<Ni=1025,Nj=1027,Nk=789>: Trial 1: GFLOPS: 1375.61
+<Ni=1025,Nj=1027,Nk=789>: Trial 2: GFLOPS: 1380.66
+<Ni=1025,Nj=1027,Nk=789>: Trial 3: GFLOPS: 1378.50
+<Ni=1025,Nj=1027,Nk=789>: Trial 4: GFLOPS: 1385.97

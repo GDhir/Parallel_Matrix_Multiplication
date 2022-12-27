@@ -1,0 +1,5 @@
+Specify Matrix dimension Ni, Nj, Nk: 32 1024 256<Ni=32,Nj=1024,Nk=256>: Trial 0: GFLOPS: 296.71
+<Ni=32,Nj=1024,Nk=256>: Trial 1: GFLOPS: 322.64
+<Ni=32,Nj=1024,Nk=256>: Trial 2: GFLOPS: 316.03
+<Ni=32,Nj=1024,Nk=256>: Trial 3: GFLOPS: 319.30
+<Ni=32,Nj=1024,Nk=256>: Trial 4: GFLOPS: 317.94

@@ -1,0 +1,5 @@
+Specify Matrix dimension Ni, Nj, Nk: 8 989 8<Ni=8,Nj=989,Nk=8>: Trial 0: GFLOPS: 6.26
+<Ni=8,Nj=989,Nk=8>: Trial 1: GFLOPS: 10.30
+<Ni=8,Nj=989,Nk=8>: Trial 2: GFLOPS: 11.02
+<Ni=8,Nj=989,Nk=8>: Trial 3: GFLOPS: 11.67
+<Ni=8,Nj=989,Nk=8>: Trial 4: GFLOPS: 11.40

@@ -1,0 +1,1 @@
+Specify Matrix dimension Ni, Nj, Nk: 1024 1024 1024Error: mismatch at linearized index 32, was: 374750928435200.000000, should be: 374767555148800.000000

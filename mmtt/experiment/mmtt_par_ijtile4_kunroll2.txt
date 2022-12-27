@@ -1,0 +1,6 @@
+Matrix Size = 1 x 16384; NTrials=5
+Reference sequential code performance in GFLOPS Min: 1.38; Max: 1.39
+Max Threads (from omp_get_max_threads) = 56
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/15/20/27/55 threads
+Best Performance (GFLOPS): 0.83 0.83 0.82 0.82 0.82 0.80 0.79 0.78 0.44 
+Worst Performance (GFLOPS): 0.62 0.51 0.45 0.35 0.45 0.31 0.29 0.23 0.06 

@@ -1,0 +1,5 @@
+Specify Matrix dimension Ni, Nj, Nk: 128 4096 128<Ni=128,Nj=4096,Nk=128>: Trial 0: GFLOPS: 250.90
+<Ni=128,Nj=4096,Nk=128>: Trial 1: GFLOPS: 251.14
+<Ni=128,Nj=4096,Nk=128>: Trial 2: GFLOPS: 250.69
+<Ni=128,Nj=4096,Nk=128>: Trial 3: GFLOPS: 251.55
+<Ni=128,Nj=4096,Nk=128>: Trial 4: GFLOPS: 251.47
